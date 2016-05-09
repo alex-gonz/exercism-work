@@ -1,0 +1,15 @@
+*/target/
+scala/anagram/project/
+scala/anagram/target/
+scala/bob/project/
+scala/bob/target/
+scala/hamming/target/
+scala/hello-world/target/
+scala/nucleotide-count/target/
+scala/pangram/target/
+scala/word-count/project/
+scala/pangram/project/
+scala/word-count/target/
+scala/nucleotide-count/project/
+scala/hello-world/project/
+scala/hamming/project/
